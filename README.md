@@ -20,3 +20,11 @@ https://docs.google.com/document/d/125NEwXqk3jEPTUDoImLbBbBdDc4dJvJhAovAQK-pgsg/
 
 ## Notes de cours lien:
 https://drive.google.com/drive/folders/1b651-09eP_fhjUjoEU2O5Ixv_IdChR63
+
+## Nos courriels:
+- meggie.cloutierhamel@gmail.com
+- gitaneceretremblay@hotmail.com
+- naomichouinard10@gmail.com
+- nassifpatricia0@gmail.com
+- Francoise.Lavoie-Pilote@cmontmorency.qc.ca
+- Charlene.Gilbert@cmontmorency.qc.ca
