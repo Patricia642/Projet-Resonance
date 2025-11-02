@@ -3,14 +3,11 @@
 ## Ordre du jour:
 https://docs.google.com/document/d/1Oc92AACz3fcE0_CL45Zb8A38dzzu0_SQcd_NHqt0WUU/edit?tab=t.0#heading=h.h95lvp6kcos8
 
+## Resonance - google drive:
+https://drive.google.com/drive/folders/1GhD_YYElGj59B6XvxR_eCpgfwkexuAiB?usp=sharing
+
 ## Pipeline – Applications & mot de passes :
 https://docs.google.com/spreadsheets/d/17HedLxW4KBKEGMhFtOpq3xyW_d5FrEC3/edit?gid=1634905454#gid=1634905454
-
-## Resonance creation:
-https://drive.google.com/drive/folders/14UI0BfwgAciqP-HXO80AMvkZZQJD70Uv
-
-## Resonance production:
-https://drive.google.com/drive/folders/15sXGUjUtrCEfMvQr_bTWfqS6GMC91ZV-
 
 ## Midjourney et les prompts:
 https://colossal-swallow-b4c.notion.site/Prompt-et-Midjourney-28f8594918fa8017bbadf6a847633e55
