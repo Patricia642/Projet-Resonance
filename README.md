@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1GhD_YYElGj59B6XvxR_eCpgfwkexuAiB?usp=sha
 https://docs.google.com/document/d/1Oc92AACz3fcE0_CL45Zb8A38dzzu0_SQcd_NHqt0WUU/edit?tab=t.0#heading=h.h95lvp6kcos8
 
 ### Teams connexion:
-https://docs.google.com/document/d/1Oc92AACz3fcE0_CL45Zb8A38dzzu0_SQcd_NHqt0WUU/edit?tab=t.0#heading=h.h95lvp6kcos8
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjBiNTNlYTktNjBiZC00YzkzLThhYjgtOTdiYjQ1MTAyODM4%40thread.v2/0?context=%7b%22Tid%22%3a%22ffa995c7-10de-4ec8-95db-28ed0576455d%22%2c%22Oid%22%3a%226900c5d2-f1eb-4e3d-940d-7a3e971e7852%22%7d
 
 ## Création
 
