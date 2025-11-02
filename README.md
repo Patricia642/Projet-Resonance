@@ -1,12 +1,17 @@
 # Liens importants
 
+## Général
+
 ## Resonance - google drive:
 https://drive.google.com/drive/folders/1GhD_YYElGj59B6XvxR_eCpgfwkexuAiB?usp=sharing
 
-## Création
-
 ### Ordre du jour:
 https://docs.google.com/document/d/1Oc92AACz3fcE0_CL45Zb8A38dzzu0_SQcd_NHqt0WUU/edit?tab=t.0#heading=h.h95lvp6kcos8
+
+### Teams connexion:
+https://docs.google.com/document/d/1Oc92AACz3fcE0_CL45Zb8A38dzzu0_SQcd_NHqt0WUU/edit?tab=t.0#heading=h.h95lvp6kcos8
+
+## Création
 
 ### Outil AI, Pipeline & mot de passes :
 https://docs.google.com/spreadsheets/d/17HedLxW4KBKEGMhFtOpq3xyW_d5FrEC3/edit?gid=1634905454#gid=1634905454
@@ -26,8 +31,12 @@ https://docs.google.com/document/d/125NEwXqk3jEPTUDoImLbBbBdDc4dJvJhAovAQK-pgsg/
 
 ## Production
 
+### Echéancier de production
+https://docs.google.com/document/d/1EdeXpTsBv8gh66n3r0R2Tp9FZEqQGTS3OL1Uisbps0A/edit?usp=drive_link
+
 ### Comptabilisation des heures travaillées 
 https://drive.google.com/drive/folders/1mbrC9aYee_S6is9htd0UbYe3IiJvaxqF?usp=drive_link
+
 
 ## Nos courriels:
 - meggie.cloutierhamel@gmail.com
