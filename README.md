@@ -43,6 +43,7 @@ https://drive.google.com/drive/folders/1mbrC9aYee_S6is9htd0UbYe3IiJvaxqF?usp=dri
 
 ## Nos courriels:
 - meggie.cloutierhamel@gmail.com
+- sarahseptembre@icloud.com
 - gitaneceretremblay@hotmail.com
 - naomichouinard10@gmail.com
 - nassifpatricia0@gmail.com
