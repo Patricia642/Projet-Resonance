@@ -2,7 +2,7 @@
 
 ## Général
 
-## Resonance - google drive:
+### Resonance - google drive:
 https://drive.google.com/drive/folders/1GhD_YYElGj59B6XvxR_eCpgfwkexuAiB?usp=sharing
 
 ### Ordre du jour:
