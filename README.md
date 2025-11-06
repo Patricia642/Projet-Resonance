@@ -28,8 +28,11 @@ https://www.notion.so/GUIDE-RUNWAY-ALEPH-VFX-29f8594918fa80fe8d51cc784c114518?so
 ### Vidéos à écouter:
 https://docs.google.com/document/d/125NEwXqk3jEPTUDoImLbBbBdDc4dJvJhAovAQK-pgsg/edit?usp=drive_link
 
+### Prompt :
+https://docs.google.com/spreadsheets/d/19-Cs2tzrXLF0pf7oHsrYckS0w65hZLjk/edit?usp=drive_link&ouid=107873224175709973292&rtpof=true&sd=true
 
 ## Production
+
 
 ### Echéancier de production
 https://docs.google.com/document/d/1EdeXpTsBv8gh66n3r0R2Tp9FZEqQGTS3OL1Uisbps0A/edit?usp=drive_link
