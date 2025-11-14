@@ -3,7 +3,7 @@
 ## Paye:
 
 ### Pour vous faire payer les rencontres: 
-téléchargez le fichier Excel dans le gabarit de facture, remplissez-le, nommez-le avec votre nom, puis déposez-le dans le dossier factures. Ensuite, avisez Patricia.
+Téléchargez le fichier Excel dans le gabarit de facture, remplissez-le, nommez-le avec votre nom, puis déposez-le dans le dossier factures. Ensuite, avisez Patricia.
 
 ### Pour entrer vos heures:
 Téléchargez le fichier Excel dans le gabarit de feuille de temps, remplissez-le, nommez-le avec votre nom, puis déposez-le dans le dossier Feuilles de temps. Ensuite, avisez Patricia.
