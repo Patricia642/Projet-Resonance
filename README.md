@@ -1,5 +1,8 @@
 # Liens importants
 
+## Pour mettre votre horaire dans l'agenda de tournage:
+https://calendar.google.com/calendar/u/0?cid=NjY4ODU3NTJhZjNkOTk4N2UxYTg3YjJmNGZmOWNhMDJjN2MwZjRmNjI4MTNmYmE4MjY3YWYzMmIzOTQyOTU1MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+
 ## Paye:
 
 ### Pour vous faire payer les rencontres: 
