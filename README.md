@@ -39,8 +39,11 @@ https://docs.google.com/document/d/1EdeXpTsBv8gh66n3r0R2Tp9FZEqQGTS3OL1Uisbps0A/
 ### Comptabilisation des heures travaillées 
 https://drive.google.com/drive/folders/1mbrC9aYee_S6is9htd0UbYe3IiJvaxqF?usp=drive_link
 
-### Pour vous faire payer les rencontres: téléchargez le fichier Excel dans le gabarit de facture, remplissez-le, puis envoyez-le à Patricia.
-### Pour entrer vos heures, téléchargez le fichier Excel dans le gabarit de feuille de temps, remplissez-le, puis envoyez-le à Patricia.
+### Pour vous faire payer les rencontres: 
+téléchargez le fichier Excel dans le gabarit de facture, remplissez-le, puis envoyez-le à Patricia.
+
+### Pour entrer vos heures:
+téléchargez le fichier Excel dans le gabarit de feuille de temps, remplissez-le, puis envoyez-le à Patricia.
 
 ## Voici une version corrigée, claire et professionnelle :
 
