@@ -1,6 +1,11 @@
 # Liens importants
 
-## Pour mettre votre horaire dans l'agenda de tournage:
+##Pour ajouter votre horaire dans l’agenda de tournage :
+
+- Cliquez sur Créer pour ajouter un nouvel événement.
+- Choisissez Calendrier de rendez-vous.
+- Mettez votre nom comme titre.
+- Choisissez une couleur et utilisez toujours la même pour tout votre horaire.
 https://calendar.google.com/calendar/u/0?cid=NjY4ODU3NTJhZjNkOTk4N2UxYTg3YjJmNGZmOWNhMDJjN2MwZjRmNjI4MTNmYmE4MjY3YWYzMmIzOTQyOTU1MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 
 ## Paye:
