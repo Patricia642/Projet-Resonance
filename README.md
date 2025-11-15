@@ -43,6 +43,9 @@ https://www.notion.so/GUIDE-MA-TRE-DU-PROMPT-VID-O-29f8594918fa804ba752da5f9c29c
 ### Guide Runway Aleph / Vfx:
 https://www.notion.so/GUIDE-RUNWAY-ALEPH-VFX-29f8594918fa80fe8d51cc784c114518?source=copy_link
 
+### Guide Création de lora
+https://colossal-swallow-b4c.notion.site/Guide-Lora-2ac8594918fa806bbab8c6142f2ac8cd?source=copy_link
+
 ### Vidéos à écouter:
 https://docs.google.com/document/d/125NEwXqk3jEPTUDoImLbBbBdDc4dJvJhAovAQK-pgsg/edit?usp=drive_link
 
