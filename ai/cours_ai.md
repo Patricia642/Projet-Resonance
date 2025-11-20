@@ -10,12 +10,12 @@
 
 ## 🟣 2. Création de personnages (Character Training)
 
-### Entraîner un personnage
+### Créerr un personnage
 * [Guide maître – Création de personnages](./guide_maitre_personnage.md)
 
 ---
 
-## 🟣 3. Génération d’images à partir d’un personnage (Character Image Generation)
+## 🟣 3. Génération d’images à partir d’un personnage 
 
 ### Produire des images cohérentes basées sur un personnage entraîné
 * Midjourney  
@@ -23,7 +23,7 @@
 
 ---
 
-## 🟣 4. Intégration d’un personnage dans des environnements (Character Placement)
+## 🟣 4. Intégration d’un personnage dans des environnements 
 
 ### Générer un personnage dans un décor ou une scène
 * Midjourney  
@@ -48,7 +48,7 @@
 
 ---
 
-## 🟣 6. Remplacement de visage / Swap de personnage (Character Swap)
+## 🟣 6. Remplacement de visage / Swap de personnage
 
 ### Remplacer un visage tout en conservant la scène originale
 * [LoRA](./swap/lora_swap.md)
