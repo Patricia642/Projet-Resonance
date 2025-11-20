@@ -10,7 +10,7 @@
 
 ## 🟣 2. Création de personnages
 
-### Créerr un personnage
+### Créer un personnage
 * [Guide maître – Création de personnages](./guide_maitre_personnage.md)
 
 ---
