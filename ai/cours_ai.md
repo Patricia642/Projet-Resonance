@@ -21,7 +21,7 @@
   * Seedream 4 4K
 
 ## 🟣 Swap de personnages / remplacement de visage
-  * [Lora](./swap/swap_Lora.md)
+  * [Lora](/swap/swap_Lora.md)
   * Seedream 4 4K
   * Arcana
   * Akool
