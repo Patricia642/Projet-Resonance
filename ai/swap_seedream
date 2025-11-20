@@ -1,20 +1,20 @@
 # Swap de visage avec un modèle Freepik
 
 ## Résumé
-Objectif : utiliser un **modèle de personnage entraîné** (ex. `@sarah_court`) pour **remplacer uniquement le visage + les cheveux** dans une image de base (`@img1`), sans toucher au décor ni aux vêtements.
+Objectif : utiliser un **modèle de personnage entraîné** (ex. `@sarah`) pour **remplacer uniquement le visage + les cheveux** dans une image de base (`@img1`), sans toucher au décor ni aux vêtements.
 
 ### 🛠️ Swap de visage avec modèle Freepik (procédure courte)
 
 - [ ] Entraîner un modèle de personnage
   - [ ] Rassembler 10–30 images du même visage (angles, expressions, lumières variés)
-  - [ ] Créer et lancer l’entraînement du modèle (ex. `@sarah_court`) dans l’interface
+  - [ ] Créer et lancer l’entraînement du modèle (ex. `@sarah`) dans l’interface
   - [ ] Vérifier que le modèle génère bien le personnage (quelques tests rapides)
 
 - [ ] Préparer l’image de base  
   - [ ] Choisir une photo nette avec le visage bien visible → `@img1`
 
 - [ ] Sélectionner le modèle de personnage  
-  - [ ] Utiliser ton modèle entraîné (ex. `@sarah_court`)
+  - [ ] Utiliser ton modèle entraîné (ex. `@sarah`)
 
 - [ ] Insérer `@img1` comme image de départ dans l’interface
 
