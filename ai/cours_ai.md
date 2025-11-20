@@ -22,7 +22,7 @@
 
 ## 🟣 Swap de personnages / remplacement de visage
   * [Lora](./swap/lora_swap.md)
-  * [Seedream 4 4K](./swapseedream_swap.md)
+  * [Seedream 4 4K](./seedream_swap.md)
   * Arcana
   * Akool
   * Pinokio
