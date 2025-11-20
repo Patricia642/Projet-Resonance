@@ -7,7 +7,7 @@
  * Ce qui change : **visage + cheveux uniquement**  
  * Ce qui reste identique : **décor, vêtements, cadrage, lumière**
 
-### 🛠️ Swap de visage avec modèle Freepik (procédure courte)
+### 🛠️ Swap de visage avec modèle Freepik
 * Entraîner un modèle de personnage avec peu d’images (plus stable)
   * Rassembler 3 images du même visage  
   * Créer et lancer l’entraînement du modèle (ex. `@sarah`)
