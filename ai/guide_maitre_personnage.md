@@ -1,5 +1,6 @@
 # Guide maître / personnages
 
+## Étape 1
 ### Création d’un personnage neutre dans Midjourney
 
 1. Dans Midjourney, on crée d’abord un personnage en définissant uniquement son physique (traits, peau, cheveux tirés, expression neutre).  
