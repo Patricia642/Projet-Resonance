@@ -23,13 +23,4 @@
 * Pour conserver les prompts, insérer ceux-ci dans le [document suivant](https://docs.google.com/spreadsheets/d/19-Cs2tzrXLF0pf7oHsrYckS0w65hZLjk/edit?gid=1738290749#gid=1738290749)
 * Pour conserver les personnages, mettre les images hautes définitions et déposer les images ici [dossier suivant](https://drive.google.com/drive/folders/1JuN1wrGeRn0IUC8dx8wYR_CyRgqjyJMr?usp=sharing)
 
-## Étape 4
-### Swap de visages via plusieurs options
-* [Lora](./swap_Lora.md)
-* Seedream 4 4K
-* Arcana
-* Akool
-* Pinokio
 
-## Étape 4
-### Utiliser les images créées pour créer des images
