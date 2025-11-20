@@ -8,4 +8,4 @@
 3. Pour la création du prompt, consulter le [lien suivant](https://docs.google.com/spreadsheets/d/19-Cs2tzrXLF0pf7oHsrYckS0w65hZLjk/edit?gid=1738290749#gid=1738290749)
 
 ## Étape 1
-### Création d’un personnage neutre dans [Seedream 4 4K](https://www.freepik.com/pikaso/ai-image-generator#from_element=pinned_tools)
+### Création d’un personnage avec expressions neutres dans [Seedream 4 4K](https://www.freepik.com/pikaso/ai-image-generator#from_element=pinned_tools)
