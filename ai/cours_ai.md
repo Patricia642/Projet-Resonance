@@ -1,6 +1,6 @@
 # Cours AI
 
-## 🟣 1. Création d’images (Foundations)
+## 🟣 1. Création d’images 
 
 ### Guides de prompt
 * [Guide maître – Prompts pour l’image](./guide_maitre_prompt_image.md)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🟣 2. Création de personnages (Character Training)
+## 🟣 2. Création de personnages
 
 ### Créerr un personnage
 * [Guide maître – Création de personnages](./guide_maitre_personnage.md)
