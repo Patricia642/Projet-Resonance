@@ -1,4 +1,4 @@
-# 🎛 MidJourney V7 — Commandes & Personnalisation
+# 🎛 Guide maître du prompt / images / midjourney / code
 
 ## 🔹 Moodboard & Personalize (Personnalisation)
 - **Moodboard** : un dossier d’images qui agit comme un **`--sref` appliqué automatiquement à toutes les générations d’un projet** (style global constant).  
