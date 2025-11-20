@@ -25,8 +25,8 @@
 
 ## Étape 4
 ### Swap de visages via plusieurs options
-#### Lora
-#### Seedream 4 4K
-#### Arcana
-#### Akool
-#### Pinokio
+* Lora
+* Seedream 4 4K
+* Arcana
+* Akool
+* Pinokio
