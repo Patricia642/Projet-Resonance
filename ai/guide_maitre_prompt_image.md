@@ -1,4 +1,4 @@
-# 🎬 Partie 1 – Fondamentaux du Prompt Cinématographique
+# 🎬 Guide maître du prompt / images
 
 
 ---
