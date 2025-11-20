@@ -25,7 +25,7 @@
 
 ## Étape 4
 ### Swap de visages via plusieurs options
-* Lora
+* [Lora](./swap_Lora.md)
 * Seedream 4 4K
 * Arcana
 * Akool
