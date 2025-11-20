@@ -1,30 +1,58 @@
 # Cours AI
 
-## Création d'images
+## 🟣 1. Création d’images (Foundations)
 
-### 🟣 Guides de prompt
-* [Guide maître du prompt / images](./guide_maitre_prompt_image.md)
-* [Guide maître du prompt / images / midjourney / code ](./guide_maitre_prompt_image_midjourney_code.md)
+### Guides de prompt
+* [Guide maître – Prompts pour l’image](./guide_maitre_prompt_image.md)
+* [Guide maître – Prompts avancés (Midjourney + Code)](./guide_maitre_prompt_image_midjourney_code.md)
 
-## 🟣 Création de personnages
-### Entraîner et construire un personnage
-* [Guide maître / création de personnages](./guide_maitre_personnage.md)
+---
 
+## 🟣 2. Création de personnages (Character Training)
 
-## 🟣 Utilisation du personnage pour générer des images
-* Midjourney
- * Seedream 4 4K
+### Entraîner un personnage
+* [Guide maître – Création de personnages](./guide_maitre_personnage.md)
 
-## 🟣 Variations d’images avec un personnage
-  * Midjourney
-  * Nano banana
-  * Seedream 4 4K
+---
 
-## 🟣 Swap de personnages / remplacement de visage
-  * [Lora](./swap/lora_swap.md)
-  * [Seedream 4 4K](./swap/seedream_swap.md)
-  * Arcana
-  * Akool
-  * Pinokio
+## 🟣 3. Génération d’images à partir d’un personnage (Character Image Generation)
 
+### Produire des images cohérentes basées sur un personnage entraîné
+* Midjourney  
+* Seedream 4 4K  
 
+---
+
+## 🟣 4. Intégration d’un personnage dans des environnements (Character Placement)
+
+### Générer un personnage dans un décor ou une scène
+* Midjourney  
+* Seedream 4 4K  
+
+---
+
+## 🟣 5. Variations d’images contenant un personnage  
+*(Image-Based Character Variations)*
+
+### Modifier une image existante sans perdre l’identité du personnage
+* Changer l’angle de la photo  
+* Modifier la pose / position du personnage  
+* Ajuster l’expression  
+* Ajouter ou retirer un élément dans la scène  
+* Modifier l’environnement tout en préservant la cohérence du personnage  
+
+#### Outils
+* Midjourney  
+* Nano Banana  
+* Seedream 4 4K  
+
+---
+
+## 🟣 6. Remplacement de visage / Swap de personnage (Character Swap)
+
+### Remplacer un visage tout en conservant la scène originale
+* [LoRA](./swap/lora_swap.md)
+* [Seedream 4 4K](./swap/seedream_swap.md)
+* Arcana  
+* Akool  
+* Pinokio
