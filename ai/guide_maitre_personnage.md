@@ -21,7 +21,7 @@
 * Décrire aussi les vêtements qu’il porte de façon constante, tels qu’ils apparaissent dans les images générées.  
 * Ce prompt devient la description officielle du personnage, neutre et factuelle, que tu réutiliseras pour assurer une cohérence parfaite dans Seedream ou d’autres outils.
 * Pour conserver les prompts, insérer ceux-ci dans le [document suivant](https://docs.google.com/spreadsheets/d/19-Cs2tzrXLF0pf7oHsrYckS0w65hZLjk/edit?gid=1738290749#gid=1738290749)
-* Pour conserver les personnages mettre les images hautes définitions [dossier suivant](https://drive.google.com/drive/folders/1JuN1wrGeRn0IUC8dx8wYR_CyRgqjyJMr?usp=sharing)
+* Pour conserver les personnages, mettre les images hautes définitions et déposer les images ici [dossier suivant](https://drive.google.com/drive/folders/1JuN1wrGeRn0IUC8dx8wYR_CyRgqjyJMr?usp=sharing)
 
 ## Étape 4
 ### Création d’un personnage dans [Lora portrait](https://www.freepik.com/pikaso/ai-image-generator#from_element=pinned_tools)
