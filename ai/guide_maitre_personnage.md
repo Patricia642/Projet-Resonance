@@ -32,4 +32,4 @@
 * Pinokio
 
 ## Étape 4
-### utiliser les images créées pour créer des images
+### Utiliser les images créées pour créer des images
