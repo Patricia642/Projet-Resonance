@@ -3,15 +3,15 @@
 ## 🟣 1. Création d’images 
 
 ### Guides de prompt
-* [Guide maître – Prompts pour l’image](./guide_maitre_prompt_image.md)
-* [Guide maître – Prompts pour l'image (Midjourney + Code)](./guide_maitre_prompt_image_midjourney_code.md)
+* [Guide maître – Prompts pour l’image](./creation_images/guide_maitre_prompt_image.md)
+* [Guide maître – Prompts pour l'image (Midjourney + Code)](./creation_images/guide_maitre_prompt_image_midjourney_code.md)
 
 ---
 
 ## 🟣 2. Création de personnages
 
 ### Créer un personnage
-* [Guide maître – Création de personnages](./guide_maitre_personnage.md)
+* [Guide maître – Création de personnages](./creation_images/guide_maitre_personnage.md)
 
 ---
 
@@ -50,8 +50,8 @@
 ## 🟣 6. Remplacement de visage / Swap de personnage
 
 ### Remplacer un visage tout en conservant la scène originale
-* [LoRA](./swap/lora_swap.md)
-* [Seedream 4 4K](./swap/seedream_swap.md)
+* [LoRA](./creation_images/swap/lora_swap.md)
+* [Seedream 4 4K](./creation_images/swap/seedream_swap.md)
 * Arcana  
 * Akool  
 * Pinokio
