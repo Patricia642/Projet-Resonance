@@ -1,4 +1,5 @@
-# Lora
+# Swap de visage avec un modèle Lora
+
 ## Étape 1
 ### Création d’un personnage dans [Lora portrait](https://fal.ai/models/fal-ai/flux-lora-portrait-trainer)
 #### Rassembler les images  
