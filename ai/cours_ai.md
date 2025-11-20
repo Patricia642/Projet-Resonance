@@ -32,7 +32,6 @@
 ---
 
 ## 🟣 5. Variations d’images contenant un personnage  
-*(Image-Based Character Variations)*
 
 ### Modifier une image existante sans perdre l’identité du personnage
 * Changer l’angle de la photo  
