@@ -1,4 +1,4 @@
-# Guide maître / Lora
+# Guide maître / Création d'un personnage dans Lora
 
 ## Rassembler les images  
 Préparer **10 à 30 images** du même personnage.
