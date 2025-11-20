@@ -19,7 +19,7 @@
 ### 3. Génération d’images à partir d’un personnage 
 
 #### Produire des images cohérentes basées sur un personnage entraîné
-* [Midjourney]((./creation_images/creation_image_avec_personnages/midjourney.md)
+* [Midjourney](./creation_images/creation_image_avec_personnages/midjourney.md)
 * Seedream 4 4K  
 
 ---
