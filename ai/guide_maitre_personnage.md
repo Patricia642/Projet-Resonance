@@ -57,7 +57,7 @@ Sortie finale :
 * Enregistrer le safetensors et le trigger le [document suivant](https://docs.google.com/spreadsheets/d/19-Cs2tzrXLF0pf7oHsrYckS0w65hZLjk/edit?usp=drive_link&ouid=109304383863739713675&rtpof=true&sd=true)
 
 
-## Étape 5 – Utilisation du LoRA
+## Étape 5
 ### Utilisation du LoRA pour le swap de visages
 #### Préparer l’entrée (prompt + scène + triggers)  
 Décrire clairement la scène et intégrer les *trigger words* dans la description.
