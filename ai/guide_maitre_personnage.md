@@ -24,8 +24,36 @@
 * Pour conserver les personnages, mettre les images hautes définitions et déposer les images ici [dossier suivant](https://drive.google.com/drive/folders/1JuN1wrGeRn0IUC8dx8wYR_CyRgqjyJMr?usp=sharing)
 
 ## Étape 4
-### Création d’un personnage dans [Lora portrait](https://www.freepik.com/pikaso/ai-image-generator#from_element=pinned_tools)
-* Générer le personnage dans tous les angles et plans nécessaires (close-up, medium shot, full body, front view et three-quarter view), en conservant le même physique, la même tenue et la même identité faciale.  
-* Reproduire ce personnage avec plusieurs émotions simples et naturelles, en gardant toujours un éclairage parfaitement diffus, un fond gris neutre.
-* Maintenir un rendu ultra-flat : aucune ombre, aucun contraste, aucun highlight, afin d’obtenir un personnage cohérent et stable.
-* Pour la création du prompt, consulter le [lien suivant](https://docs.google.com/spreadsheets/d/19-Cs2tzrXLF0pf7oHsrYckS0w65hZLjk/edit?usp=drive_link&ouid=109304383863739713675&rtpof=true&sd=true)
+### Création d’un personnage dans [Lora portrait](https://fal.ai/models/fal-ai/flux-lora-portrait-trainer)
+#### Rassembler les images  
+Préparer *10 à 30 images* du même personnage.
+
+* Variété recommandée :
+  * angles différents  
+  * expressions variées  
+  * lumière
+  * plans rapprochés + quelques plans moyens + quelques plans larges
+* Qualité attendue : *haute résolution*, non floues, non surtraitées.
+
+#### Uploader les images dans l’interface LoRA Trainer  
+Importer le dossier d’images dans la section *training dataset*.
+
+#### Choisir un nom de LoRA + Trigger Word  
+Définir un mot-clé associé au personnage (utilisé ensuite dans les prompts).
+
+Exemples :  
+`mila_portrait`  
+`mila_face`
+
+Ce mot servira dans les prompts pour appeler le personnage.
+
+#### Lancer la génération du LoRA  
+Le système entraîne le fichier LoRA.
+
+Sortie finale :  
+`mila_character_lora_v1.safetensors`
+
+#### Enregistrer les informations lora 
+* Enregistrer le safetensors et le trigger le [document suivant](https://docs.google.com/spreadsheets/d/19-Cs2tzrXLF0pf7oHsrYckS0w65hZLjk/edit?usp=drive_link&ouid=109304383863739713675&rtpof=true&sd=true)
+
+
