@@ -1,4 +1,4 @@
-# Guide maître / personnages
+# Création de personnages
 
 ## Étape 1
 ### Création d’un personnage dans [Midjourney](https://www.midjourney.com/home)
