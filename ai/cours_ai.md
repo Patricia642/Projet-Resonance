@@ -4,7 +4,7 @@
 
 ### Guides de prompt
 * [Guide maître – Prompts pour l’image](./guide_maitre_prompt_image.md)
-* [Guide maître – Prompts avancés (Midjourney + Code)](./guide_maitre_prompt_image_midjourney_code.md)
+* [Guide maître – Prompts pour l'image (Midjourney + Code)](./guide_maitre_prompt_image_midjourney_code.md)
 
 ---
 
