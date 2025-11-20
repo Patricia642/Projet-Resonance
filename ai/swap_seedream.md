@@ -23,8 +23,7 @@
   * Utiliser ton modèle entraîné (`@sarah`)
 
 * Utiliser ce prompt (adapter les noms si nécessaire) :
-
-  * **Prompt :**
+  * Prompt :=
 
     ```
     Dans @img1, remplace uniquement le visage et les cheveux de la femme par le visage et les cheveux de @sarah.
