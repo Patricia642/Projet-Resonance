@@ -11,16 +11,16 @@
 * [Guide maître / création de personnages](./guide_maitre_personnage.md)
 
 
-## Utilisation du personnage pour générer des images
+## 🟣 Utilisation du personnage pour générer des images
 * Midjourney
  * Seedream 4 4K
 
-## Variations d’images avec un personnage
+## 🟣 Variations d’images avec un personnage
   * Midjourney
   * Nano banana
   * Seedream 4 4K
 
-## Swap de personnages / remplacement de visage
+## 🟣 Swap de personnages / remplacement de visage
   * [Lora](./swap_Lora.md)
   * Seedream 4 4K
   * Arcana
