@@ -1,4 +1,4 @@
-# Swap de visage avec un modèle Freepik
+# Swap de visage avec un modèle Seedream
 
 ## Résumé
 * Objectif : utiliser un **modèle de personnage entraîné** (ex. `@sarah`) pour **remplacer uniquement le visage + les cheveux** dans une image de base (`@img1`), sans toucher au décor ni aux vêtements.
