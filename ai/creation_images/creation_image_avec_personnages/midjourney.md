@@ -12,8 +12,9 @@ Objectif : réutiliser **le même personnage** dans plusieurs images grâce à *
   * Décrire brièvement le visage / style (2–3 mots max)  
 
 * Décrire la nouvelle scène  
-  * Angle, pose, décor, action  
-  * Ajouter seulement les éléments nécessaires
+  * Définir un lieu imaginaire : futuriste, onirique, botanique, sci-fi…  
+  * Décrire la lumière : direction, intensité, ambiance  
+  * Ajouter 1–2 éléments clés : brume, néons, reflets, plantes lumineuses…
 
 * Générer  
   * Lancer la génération  
