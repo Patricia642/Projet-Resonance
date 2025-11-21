@@ -27,7 +27,6 @@
 ### 4. Intégration d’un personnage dans des environnements 
 
 #### Générer un personnage dans un décor ou une scène
-* Midjourney  
 * Seedream 4 4K  
 
 ---
