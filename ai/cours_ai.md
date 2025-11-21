@@ -1,6 +1,6 @@
 # Cours AI
 
-# 🟣 IMAGES
+# 🟣 IMAGE
 ### 1. Création d’images 
 
 #### Guides de prompt
@@ -53,4 +53,8 @@
 * Akool  
 * Pinokio
 
-# 🟣 VIDÉOS
+# 🟣 UPSCALE IMAGE
+
+# 🟣 VIDÉO
+
+# 🟣 UPSCALE VIDÉO
