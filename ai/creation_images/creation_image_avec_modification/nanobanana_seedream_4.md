@@ -46,10 +46,11 @@ Objectif : réaliser des variations (expression, angle, ajout d’éléments) su
     facial identity, freckles, red hair color and natural flow, skin texture,
     and the green fur coat with nano-level precision.
 
-    Modify only her facial expression: create a soft, natural smile with slightly
-    relaxed lips and gentle warmth in the eyes. Do not change any other facial
-    proportions, objects, background elements, or the color palette.
+    Modify only her facial expression: her smile disappears entirely, her lips tense slightly, and subtle
+    fear shows in her eyes through widened pupils and a faint tightening of the eyebrows. Do not change any
+    other facial proportions, objects, background elements, or the color palette.
     ```
+
 
 ---
 
