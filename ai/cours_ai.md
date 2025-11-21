@@ -40,13 +40,13 @@
 * Ajouter ou retirer un élément dans la scène  
 
 ##### Générer une image avec des variations
-* [Nano Banana 2K et Seedream 4K](./creation_images/creation_image_avec_modification/nanobanana_seedream_4.md)
+* [Nano Banana Pro et Seedream 4K](./creation_images/creation_image_avec_modification/nanobanana_seedream_4.md)
 ---
 
 ### 5. Création d'un contrechamp
 
-##### Générer une image de contrechmap
-* [Nano Banana 2K et Seedream 4K](./creation_images/creation_image_avec_modification/nanobanana_seedream_4.md)
+##### Générer une image de contrechamp
+* [Nano Banana](./creation_images/creation_image_avec_modification/nanobanana_seedream_4.md)
 
 ---
 
