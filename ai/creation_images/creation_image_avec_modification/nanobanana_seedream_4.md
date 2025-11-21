@@ -1,4 +1,4 @@
-# Variation d'une image dans Nano Banana et Seedream
+# Variation d'une image dans Nano Banana 2K et Seedream 4K
 
 ## Principe
 Objectif : réaliser des variations (expression, angle, ajout d’éléments) sur une **image existante**, tout en **préservant strictement la composition et l’identité du sujet**.
@@ -34,6 +34,8 @@ Objectif : réaliser des variations (expression, angle, ajout d’éléments) su
 ---
 
 # Exemple de prompt prêt à copier-coller — Changement d’expression
+
+À noter, on pourrait enlever tout la première partie du prompt et indiquer Keep the same composition et ensuite indiquer les changements. 
 
 * Utiliser ce prompt (adapter les détails si nécessaire) :
   * Prompt :
