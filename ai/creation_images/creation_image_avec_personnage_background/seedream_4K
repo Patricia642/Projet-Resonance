@@ -5,29 +5,32 @@ Insérer ton **modèle de personnage** (`@mila`) dans une **image de background*
 
 ### 🛠️ Procédure ultra-courte
 
-- [ ] Importer le **background**
-  - [ ] Charger ton image → devient `@img1`.
+* Importer le **background**
+  * Charger ton image → devient `@img1`.
 
-- [ ] Appeler ton **modèle de personnage**
-  - [ ] Utiliser : `@mila`.
+* Appeler ton **modèle de personnage**
+  * Utiliser : `@mila`.
 
-- [ ] Verrouiller l’identité
-  - [ ] *“exact facial identity, same proportions, natural matte skin texture”*
+* Verrouiller l’identité
+    *“exact facial identity, same proportions, natural matte skin texture”*
 
-- [ ] Demander l’insertion dans la scène
-  - [ ] *“Place the character inside @img1”*
+* Demander l’insertion dans la scène
+  * “Place the character inside @img1”*
 
-- [ ] Assurer une intégration réaliste
-  - [ ] Lumière → même direction, mêmes ombres  
-  - [ ] Contraste → cohérent avec le décor  
-  - [ ] Perspective atmosphérique / profondeur  
-  - [ ] Reflets du sol / lumière d’ambiance  
-  - [ ] Légère brume ou overlays naturels pour l’intégration
+* Assurer une intégration réaliste
+  *  Lumière → même direction, mêmes ombres  
+  * Contraste → cohérent avec le décor  
+  * Perspective atmosphérique / profondeur  
+  * Reflets du sol / lumière d’ambiance  
+  * Légère brume ou overlays naturels pour l’intégration
 
-- [ ] Décrire brièvement l’ambiance
-  - [ ] Ex : *“cinematic night neon mood, soft atmospheric glow”*
+* Décrire brièvement l’ambiance
+  * Ex : *“cinematic night neon mood, soft atmospheric glow”*
 
-### 🟠 Exemple de prompt condensé (avec `@mila`)
+
+* Prompt :
+
+    ```
 
 Photorealistic woman based on @mila_court , keeping her exact facial identity, natural proportions, and matte skin texture with no gloss. 
 Her face is softly illuminated by a neutral, diffused fill light, ensuring her identity and skin texture remain unchanged. Place the woman inside @img1 .
