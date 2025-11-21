@@ -3,8 +3,7 @@
 ### 🟠 Objectif  
 Insérer ton **modèle de personnage** (`@mila`) dans une **image de background** (`@img1`) avec une intégration photoréaliste et cohérente.
 
-### 🛠️ Procédure ultra-courte
-
+### 🛠️ Procédure
 * Importer le **background**
   * Charger ton image → devient `@img1`.
 
@@ -12,20 +11,20 @@ Insérer ton **modèle de personnage** (`@mila`) dans une **image de background*
   * Utiliser : `@mila`.
 
 * Verrouiller l’identité
-    *“exact facial identity, same proportions, natural matte skin texture”*
+ * exact facial identity, same proportions, natural matte skin texture*
 
 * Demander l’insertion dans la scène
-  * “Place the character inside @img1”*
+  * Place the character inside @img1
 
 * Assurer une intégration réaliste
-  *  Lumière → même direction, mêmes ombres  
+  * Lumière → même direction, mêmes ombres  
   * Contraste → cohérent avec le décor  
   * Perspective atmosphérique / profondeur  
   * Reflets du sol / lumière d’ambiance  
   * Légère brume ou overlays naturels pour l’intégration
 
 * Décrire brièvement l’ambiance
-  * Ex : *“cinematic night neon mood, soft atmospheric glow”*
+  * Ex : cinematic night neon mood, soft atmospheric glow
 
 
 * Prompt :
