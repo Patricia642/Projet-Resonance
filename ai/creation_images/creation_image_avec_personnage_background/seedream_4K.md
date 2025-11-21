@@ -30,7 +30,6 @@ Insérer ton **modèle de personnage** (`@mila`) dans une **image de background*
 * Prompt :
 
     ```
-
 Photorealistic woman based on @mila_court , keeping her exact facial identity, natural proportions, and matte skin texture with no gloss. 
 Her face is softly illuminated by a neutral, diffused fill light, ensuring her identity and skin texture remain unchanged. Place the woman inside @img1 .
 The red neon from the vending machines should appear only as a soft ambient tint on the shadow side of her silhouette, never as a direct highlight on the skin. 
