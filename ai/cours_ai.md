@@ -54,7 +54,7 @@ Nana1974@
 
 ---
 
-### 6. Remplacement de visage / Swap de personnage
+### 6. Remplacement de visage 
 
 #### Remplacer un visage tout en conservant la scène originale
 * [LoRA](./creation_images/swap/lora.md)
