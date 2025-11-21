@@ -4,6 +4,8 @@
 ### Outil AI, Pipeline & mot de passes :
 https://docs.google.com/spreadsheets/d/17HedLxW4KBKEGMhFtOpq3xyW_d5FrEC3/edit?gid=1634905454#gid=1634905454
 
+### Travailler avec les Chats personnalisés
+
 ## 🟣 IMAGE
 ### 1. Création d’images 
 
