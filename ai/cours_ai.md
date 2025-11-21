@@ -1,5 +1,9 @@
 # Cours AI
 
+Mot de passe google
+intelligenceartificiellemtl@gmail.com
+Nana1974@
+
 # 🟣 IMAGE
 ### 1. Création d’images 
 
@@ -53,9 +57,9 @@
 ### 6. Remplacement de visage / Swap de personnage
 
 #### Remplacer un visage tout en conservant la scène originale
-* [LoRA](./creation_images/swap/lora_swap.md)
-* [Seedream 4 4K](./creation_images/swap/seedream_swap.md)
-* Arcana  
+* [LoRA](./creation_images/swap/lora.md)
+* [Seedream 4 4K](./creation_images/swap/seedream.md)
+* [Arcana](./creation_images/swap/arcana_swap.md)
 * Akool  
 * Pinokio
 
