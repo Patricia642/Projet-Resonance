@@ -27,7 +27,7 @@
 ### 4. Intégration d’un personnage dans des environnements 
 
 #### Générer un personnage dans un décor ou une scène
-* Seedream 4 4K  
+* [Seedream 4 4K](./creation_images/creation_image_avec_personnage_background/seedream_4K.md)
 
 ---
 
