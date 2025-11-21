@@ -31,19 +31,16 @@
 
 ---
 
-### 5. Variations d’images contenant un personnage  
+### 5. Variations d’images
 
-#### Modifier une image existante sans perdre l’identité du personnage
+#### Modifier une image existante
 * Changer l’angle de la photo  
 * Modifier la pose / position du personnage  
 * Ajuster l’expression  
 * Ajouter ou retirer un élément dans la scène  
-* Modifier l’environnement tout en préservant la cohérence du personnage  
 
-##### Outils
-* Midjourney  
-* Nano Banana  
-* Seedream 4 4K  
+##### Génrére une image avec des variations
+* [Nano Banana 2K et Seedream 4K](./creation_images/creation_image_avec_modification/nanobanana_seedream_4.md)
 
 ---
 
