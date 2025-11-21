@@ -45,8 +45,8 @@
 
 ### 5. Création d'un contrechamp
 
-##### Générer une image de contrechamp
-* [Nano Banana](./creation_images/creation_image_avec_modification/nanobanana_seedream_4.md)
+##### Générer une image de contrechamp 
+* [Nano Banana](./creation_images/creation_contrechamp/nanobanana.md)
 
 ---
 
