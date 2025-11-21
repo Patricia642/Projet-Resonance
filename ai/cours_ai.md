@@ -20,7 +20,7 @@
 
 #### Produire des images cohérentes basées sur un personnage entraîné
 * [Midjourney](./creation_images/creation_image_avec_personnages/midjourney.md)
-* Seedream 4 4K  
+* [Seedream 4 4K](./creation_images/creation_image_avec_personnages/seedream_4.md) 
 
 ---
 
